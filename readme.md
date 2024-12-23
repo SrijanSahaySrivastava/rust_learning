@@ -1,4 +1,4 @@
-### impl
+## impl
 
 impl is a goup of functions
 eg: 
@@ -24,7 +24,7 @@ fn main(){
 }
 ```
 
-### Everything is immutable
+## Everything is immutable
 
 you can add mutability to any variable by adding `mut` keyword.
 eg:
